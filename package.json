@@ -22,6 +22,7 @@
   },
   "dependencies": {
     "@daveyplate/better-auth-ui": "^3.2.5",
+    "@imagekit/next": "^2.1.3",
     "@polar-sh/better-auth": "^1.1.4",
     "@polar-sh/sdk": "^0.34.17",
     "@prisma/client": "^6.5.0",
